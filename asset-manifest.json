@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.89e823cd.chunk.css",
-    "main.js": "./static/js/main.99a57bb9.chunk.js",
-    "main.js.map": "./static/js/main.99a57bb9.chunk.js.map",
+    "main.js": "./static/js/main.3b2f9710.chunk.js",
+    "main.js.map": "./static/js/main.3b2f9710.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4f1a20b4.js",
     "runtime-main.js.map": "./static/js/runtime-main.4f1a20b4.js.map",
     "static/js/2.ddd58a25.chunk.js": "./static/js/2.ddd58a25.chunk.js",
     "static/js/2.ddd58a25.chunk.js.map": "./static/js/2.ddd58a25.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.caa21c7c1c499674d4b24bd97ae0e1b1.js": "./precache-manifest.caa21c7c1c499674d4b24bd97ae0e1b1.js",
+    "precache-manifest.d76f4e10e18a308730c356b75eaba083.js": "./precache-manifest.d76f4e10e18a308730c356b75eaba083.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.89e823cd.chunk.css.map": "./static/css/main.89e823cd.chunk.css.map",
     "static/js/2.ddd58a25.chunk.js.LICENSE.txt": "./static/js/2.ddd58a25.chunk.js.LICENSE.txt",
     "static/media/BEE 2.pdf": "./static/media/BEE 2.236fe7fd.pdf",
     "static/media/CSDAudit.pdf": "./static/media/CSDAudit.9ec1f2be.pdf",
-    "static/media/Company Profile 2021.pdf": "./static/media/Company Profile 2021.47db7111.pdf",
+    "static/media/CompanyProfile.pdf": "./static/media/CompanyProfile.47db7111.pdf",
     "static/media/K2013128612.pdf": "./static/media/K2013128612.b1f6fee1.pdf",
     "static/media/Tax clearance.pdf": "./static/media/Tax clearance.60a954ef.pdf",
     "static/media/azola.jpg": "./static/media/azola.97c5dc37.jpg",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.4f1a20b4.js",
     "static/js/2.ddd58a25.chunk.js",
     "static/css/main.89e823cd.chunk.css",
-    "static/js/main.99a57bb9.chunk.js"
+    "static/js/main.3b2f9710.chunk.js"
   ]
 }
